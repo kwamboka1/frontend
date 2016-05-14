@@ -1,0 +1,86 @@
+body{
+	background-color: cyan;
+}
+.containers{
+	width: 800px;
+    margin: 0 auto;
+    background-color: #ccc;
+    height: 1613px;
+}
+.milly{
+width: 254px;
+height: 253px;
+float: left; 
+margin-left: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+#box1{
+	border: solid;
+	background-color: green;
+}
+#box2{
+	background-color: red;
+	border: solid;
+}
+#box3{
+	background-color: blue;
+	border: solid;
+}
+.makori{
+	width: 785px;
+	height: 400px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color:purple;
+	border: solid;
+	margin-bottom: 5px;
+}
+.kwamboka{
+	width: 387px;
+	height: 300px;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#C1{
+	border: solid;
+	background-color: brown;
+}
+#C2{
+	border: solid;
+	background-color: aqua;
+}
+.dred{
+	clear: both;
+	width: 785px;
+	height: 300px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color:green;
+	border: solid;
+	margin-bottom: 5px;
+}
+.ombati{	
+	clear: both;
+    width: 785px;
+	height: 300px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color:blue;
+	border: solid;
+	margin-bottom: 5px;
+	
+}
+h1{
+	text-align: center;
+}
+#footer{
+	height: 20px; 
+	background: white;
+	bottom: 0; #sticks the footer 3px above the bottom edges of the #wrapper div
+	width: inherit;
+	text-align: center;
+}

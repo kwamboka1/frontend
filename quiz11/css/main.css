@@ -1,0 +1,67 @@
+body{
+	background-color: cyan;
+}
+.containers{
+	max-width: 900px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+.makori{
+	width:890px;
+	height: 300px;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color:purple;
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+.milly{
+width: 293px;
+height: 293px;
+float: left; 
+margin-left: 1%;
+margin-top: 1%;
+margin-bottom:1%;
+
+}
+
+#box1{
+	background-color:red;
+}
+.mildred{
+	clear: both;
+	width: 890px;
+	height: 300px;
+	margin-left:1%;
+	margin-right:1%;
+	background-color:green;
+	margin-bottom:1%;
+}
+
+.kwamboka{
+	width: 220px;
+	height: 220px;
+	float: left;
+	margin-left:1%;
+	margin-bottom:1%;
+}
+#C1{
+	background-color: brown;
+
+}
+
+#footer{
+	height: 20px; 
+	background: white;
+	bottom: 0; #sticks the footer 3px above the bottom edges of the #wrapper div
+	width: inherit;
+	text-align: center;
+}
+@media only screen and (max-width: 500px){
+	body{background-color:blue;}
+	.containers{background-color: black;}
+}
+@media only screen and (max-width: 700px){
+	body{background-color:red;}
+	.containers{background-color: yellow;}
+}

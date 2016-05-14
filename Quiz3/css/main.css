@@ -1,0 +1,89 @@
+.panel1{
+	margin:0 auto;
+	width: 1000px;  
+}
+img{
+	padding-right:20px; 
+	padding-bottom:30px; 
+}
+.img1{
+	float:left;
+	margin-right:15px; 
+}
+.img2{
+	float: left;
+	margin-right:15px; 
+}
+.img3{
+	float: right;
+	margin-left:15px; 
+}
+.nav {
+position: fixed;
+top: 0;
+width: 100%;
+color: #ffffff;
+height: 35px;
+text-align: center;
+padding-top: 15px;
+
+/* Adds shadow to the bottom of the bar */
+-webkit-box-shadow: 0px 0px 8px 0px #000000;
+-moz-box-shadow: 0px 0px 8px 0px #000000;
+box-shadow: 0px 0px 8px 0px #000000;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.8);
+color: rgba(1, 1, 1, 0.8);
+}
+.nav a {
+font-size: 14px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+text-decoration: none;
+}
+ul.nav a.focus{
+color:#7cff00;
+border:3px solid green;
+} 
+.gallery{
+	color: green;
+}
+body {
+	background-color:aqua;
+	margin:0 auto;
+	padding: 0;
+	margin: 0;
+	
+}
+address{
+	color: black;
+}
+.contact{
+	color: blue;
+}
+h1{
+	color:red;
+	text-decoration: overline;
+
+}
+h3{
+	color: red;
+}
+h2{
+	color: red;
+}.panel2{
+	margin:0 auto;
+	width: 1000px;  
+}
+.panel3{
+	margin:0 auto;
+	width: 1000px;  
+}
+#footer{
+	height: 20px; 
+	background: white;
+	bottom: 0; 
+	width: inherit;
+	text-align: center;
+}

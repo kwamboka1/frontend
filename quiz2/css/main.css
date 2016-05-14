@@ -1,0 +1,32 @@
+h1{
+margin:0 auto;
+}
+.panel1{
+	width:800px;
+	height:300px;
+	padding:20px;
+	margin:0 auto;
+	border:hidden;
+
+}
+.panel2{
+	background-image:url(../img/flower3.jpg);
+	width:800px;
+	height:300px;
+	padding:20px;
+	margin:0 auto;
+	border:hidden;
+	opacity: 0.8;
+
+}
+.panel3{
+	width:800px;
+	height:300px;
+	margin:0 auto;
+	border: hidden;
+
+}
+
+.panel3 img{
+	padding-right:20px;
+}

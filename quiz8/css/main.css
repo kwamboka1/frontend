@@ -1,0 +1,47 @@
+body{
+	background-color:rgba(1,1,1,0.8);
+	font-family:arial,sans-serif; 
+}
+.video1{
+	width:800px;
+	height:439;
+	//background-color:maroon;
+	margin: 0 auto;
+}
+.video{
+	width:392px;
+	height:439px;
+	//padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+#cont1{
+	float: right;
+}
+#cont2{
+	float: left;
+}
+.map{
+	margin-top: 5px;
+	margin-bottom:5px; 
+	width: 800px;
+	margin: 0 auto;
+	height: 600px;
+}
+div{
+	margin:0 auto;
+	text-align: center;
+}
+.main{
+	width: 810px;
+	//background-color: #505050;
+}
+#footer{
+	height: 20px; 
+	background: #505050;
+	bottom: 0px; #sticks the footer 3px above the bottom edges of the #wrapper div
+	width: inherit;
+	text-align: center;
+	position:fixed;
+}
+

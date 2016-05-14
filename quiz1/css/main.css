@@ -1,0 +1,84 @@
+#container{
+	background:purple;
+	border-style: solid;
+	width:1000px;
+	border-color: green;
+	border-width:10px;
+	margin: 0 auto
+
+
+}
+
+h1{
+	color:white;
+	background-color: green;
+	font-size: 500%;
+	height:auto;
+	margin:0 auto;
+	text-align: center;
+
+}
+	
+	h2{
+	color:red;
+	text-align: center;
+}
+
+header{
+	display:block;
+}
+footer{
+	display:block;
+}
+form{
+	color:grey;
+}
+address{
+	color:yellow;
+}
+#footer{
+	
+	color:red;
+	background-color:linen;
+	text-align:center;
+
+}
+
+#navigation {
+position: fixed;
+top: 0;
+width: 100%;
+color: #ffffff;
+height: 35px;
+text-align: center;
+padding-top: 15px;
+/* Adds shadow to the bottom of the bar */
+-webkit-box-shadow: 0px 0px 8px 0px #000000;
+-moz-box-shadow: 0px 0px 8px 0px #000000;
+box-shadow: 0px 0px 8px 0px #000000;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.8);
+color: rgba(1, 1, 1, 0.8);
+}
+#navigation a {
+font-size: 14px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+text-decoration: none;
+}
+body {
+padding: 0;
+margin: 0 auto;
+}
+#navigation a:hover {
+color: grey;
+} 
+.img1{
+	float: left;
+	margin-right: 15px;
+}
+.img2{
+	float: right;
+	margin-left:15px; 
+}
